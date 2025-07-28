@@ -54,6 +54,10 @@ describe('example to-do app', () => {
       cy.contains('Tarea').should('not.exist')
     })
 
+    it("test que debe de fallar ",() =>{
+      cy.get('#list-container li').contains("tarea innexistente")   
+    })
+
 
     
   })
