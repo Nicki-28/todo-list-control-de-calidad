@@ -40,7 +40,7 @@ Cada push o pull request a la rama main ejecuta:
 
 ## 📌 Estado de las pruebas 
 
-[![Cypress Tests](https://github.com/Nicki-28/todo-list-control-de-calidad/actions/workflows/cypress.yml/badge.svg)](https://github.com/Nicki-28/todo-list-control-de-calidad/actions/workflows/cypress.yml)
+[![Cypress Tests](https://github.com/Nicki-28/todo-list-control-de-calidad/actions/workflows/main.yml/badge.svg)](https://github.com/Nicki-28/todo-list-control-de-calidad/actions/workflows/main.yml)
 
 ## Vista previa de la web
 ![Vista previa - To-do list app](./todoList/images/vistaPrevia.png)
