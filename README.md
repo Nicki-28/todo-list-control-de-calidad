@@ -26,7 +26,8 @@ Cada vez que se suben cambios al repositorio, el flujo de integración continua 
    npm install
 3. **Ejecutar la aplicación**
    Abre index.html en un servidor local (por ejemplo con la extensión Live Server de VS Code).
-4.**Ejecutar pruebas de Cypress**
+   
+4. **Ejecutar pruebas de Cypress**
    ```bash
    npx cypress open   # Modo interactivo
    npx cypress run    # Modo headless (para CI/CD)
